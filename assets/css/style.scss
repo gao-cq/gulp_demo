@@ -1,0 +1,13 @@
+
+@import './test.scss';
+
+.alert{
+	background:orange;
+	display:flex;
+	justify-content: space-between;
+	>a{
+		color:red;
+		font-size: 30px;
+		line-height: 1;
+	}
+}

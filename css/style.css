@@ -1,0 +1,15 @@
+.err {
+  font-size: 50px; }
+  .err > a {
+    font-size: 20px; }
+  .err > div {
+    font-size: 30px; }
+
+.alert {
+  background: orange;
+  display: flex;
+  justify-content: space-between; }
+  .alert > a {
+    color: red;
+    font-size: 30px;
+    line-height: 1; }
